@@ -8,6 +8,8 @@
 - currently learning **Software Engineering**
 
 - 💬 Ask me about **C++, C#, JavaScript, QT, OpenGL, OpenCV**
+
+- 💬 have experience in **Video Streaming**
 <!--
 - Certification on -  [Node.js](https://drive.google.com/file/d/15rLCTVbZHhEe4aMGKwyXOk5b7BMhnPLM/view?usp=sharing)
 
