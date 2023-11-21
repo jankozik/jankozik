@@ -5,11 +5,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=jankozik&column=7&row=1&theme=matrix&margin-w=40&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- currently learning **Software Engineering**
+- **Software Engineering**
 
-- 💬 Ask me about **C++, C#, JavaScript, QT, OpenGL, OpenCV**
+- 💬 Ask me about **C++, C#, Python, JavaScript, QT, OpenGL, Unity, OpenCV**
 
-- 💬 have experience in **Video Streaming**
+- 💬 have experience in **Computer Graphics and Video Streaming**
 <!--
 - Certification on -  [Node.js](https://drive.google.com/file/d/15rLCTVbZHhEe4aMGKwyXOk5b7BMhnPLM/view?usp=sharing)
 
